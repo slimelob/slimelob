@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm Thiago!
+I'm student's Celso Piva school at Brazil
 <!--
 **slimelob/slimelob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
