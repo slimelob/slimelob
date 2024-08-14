@@ -1,17 +1,18 @@
-## Hi there 👋
-I'm Thiago!
-I'm student's Celso Piva school at Brazil
+## nah i'd win
+
+hi!
+
+I'm **Thiago!**
+
+I'm student's **Celso Piva school at Brazil**
+
+i like to play **video games**
+
+
+
+![](https://media1.tenor.com/m/qnuatysdPEYAAAAd/gojo-gojo-satoru.gif)
+
 <!--
 **slimelob/slimelob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+H
